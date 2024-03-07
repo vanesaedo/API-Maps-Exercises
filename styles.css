@@ -1,1 +1,12 @@
-#map { height: 180px; }
+
+body{
+    padding:40px;
+}
+
+#map { height: 180px;
+    margin: 40px; }
+#map2 {
+    height: 180px;
+    margin: 40px; 
+    border: 1px solid black;
+  }
